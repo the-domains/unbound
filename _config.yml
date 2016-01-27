@@ -2,6 +2,7 @@ name: unbound
 favicon: null
 layout_spectrum: 0.7547710393555462
 typography_spectrum: 0.008821337716653943
+title: unbound
 cta:
   domain: null
   bucket: null
