@@ -1,27 +1,26 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-01T11:06:40.551Z'
-dateModified: '2016-02-01T11:06:26.323Z'
+datePublished: '2016-02-03T06:54:58.239Z'
+dateModified: '2016-02-03T06:54:51.675Z'
 title: '#AI beats GO champ 10 years early'
 author: []
+sourcePath: _posts/2016-02-01-ai-beats-go-champ-10-years-early.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-01-ai-beats-go-champ-10-years-early.md
-published: true
+url: ai-beats-go-champ-10-years-early/index.html
 _context: 'http://schema.org'
 _type: Article
 
 ---
-> From The Economist Espresso: Go, and farewell: artificial intelligence
-> http://econ.st/1nTlnmT
+> AI beats Go champ 10 years earlier than anticipated http://econ.st/1nTlnmT
