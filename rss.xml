@@ -4,8 +4,15 @@
         <description><![CDATA[unbound]]></description>
         <link>https://thegrid.ai/unbound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 06:53:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 06:54:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unbound/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[#AI beats GO champ 10 years early]]></title>
+            <description><![CDATA[<h1>#AI beats GO champ 10 years early</h1>]]></description>
+            <link>https://thegrid.ai/unbound/ai-beats-go-champ-10-years-early/index.html</link>
+            <guid isPermaLink="false">70c52940-7796-4aa4-96e4-c69d52c1fdb4</guid>
+            <pubDate>Wed, 03 Feb 2016 06:54:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Brics are dead. Long live the Ticks - FT.com]]></title>
             <description><![CDATA[<article><h1>The Brics are dead. Long live the Ticks - FT.com</h1><p>The Brics are dead. Long live the Ticks. The Brics concept, based on the belief that the quartet of Brazil, Russia, India and China would power an unstoppable wave of emerging markets-led economic growth, gripped the firmament for more than a decade after it was conjured into existence by Jim O'Neill, then chief economist at Goldman Sachs, in 2001.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7cbcf90d1d3a701ac52450a6fb45c3f529d08709.img"></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/unbound/27f65c28-c7ef-4aeb-a8b2-077f6cdfadc2/index.html</link>
             <guid isPermaLink="false">27f65c28-c7ef-4aeb-a8b2-077f6cdfadc2</guid>
             <pubDate>Thu, 28 Jan 2016 20:10:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Savings glut could be a perverse result of the digital economy, but where does it go? #digitaleconomy</p>]]></description>
-            <link>https://thegrid.ai/unbound/8fcda6eb-659c-4bef-a9cc-7acef36f9fbf/index.html</link>
-            <guid isPermaLink="false">8fcda6eb-659c-4bef-a9cc-7acef36f9fbf</guid>
-            <pubDate>Fri, 29 Jan 2016 06:16:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
