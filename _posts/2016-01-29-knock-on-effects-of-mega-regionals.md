@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: analysis of 3rd party impacts of megaregionals
-datePublished: '2016-01-29T18:26:13.997Z'
-dateModified: '2016-01-29T18:25:30.568Z'
+datePublished: '2016-02-03T06:53:46.062Z'
+dateModified: '2016-02-03T06:53:38.921Z'
 author: []
 title: Knock on effects of mega-regionals
+sourcePath: _posts/2016-01-29-knock-on-effects-of-mega-regionals.md
+published: true
 authors: []
 publisher:
   name: ged-project.de
   domain: ged-project.de
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-knock-on-effects-of-mega-regionals.md
-published: true
 url: knock-on-effects-of-mega-regionals/index.html
 _context: 'http://schema.org'
 _type: Article
