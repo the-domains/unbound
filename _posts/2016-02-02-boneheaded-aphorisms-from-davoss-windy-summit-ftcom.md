@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.ft.com'
-  name: Financial Times
-  favicon: 'http://im.ft-static.com/m/icons/favicon.ico'
-  domain: next.ft.com
+inFeed: false
+hasPage: true
+inNav: false
+inLanguage: en
+starred: false
 keywords:
   - ltd
   - financial
@@ -18,17 +16,21 @@ keywords:
   - article
   - cms
 description: 'You can always go faster than you think you can. Those are not my words. They are the words of , Hewlett-Packard Enterprise chief executive, who said them about 10 days ago at Davos, where they were duly jotted down and published in a collection of'
-inLanguage: en
+datePublished: '2016-02-05T18:47:50.244Z'
+dateModified: '2016-02-04T11:39:34.385Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'https://next.ft.com/content/967a3d46-c53c-11e5-808f-8231cd71622e'
 title: "Boneheaded aphorisms from Davos's windy summit - FT.com"
-datePublished: '2016-02-02T12:41:33.198Z'
-dateModified: '2016-02-01T12:57:54.975Z'
 sourcePath: _posts/2016-02-02-boneheaded-aphorisms-from-davoss-windy-summit-ftcom.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Financial Times
+  domain: next.ft.com
+  url: 'http://www.ft.com'
+  favicon: 'http://im.ft-static.com/m/icons/favicon.ico'
+url: boneheaded-aphorisms-from-davoss-windy-summit-ftcom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
