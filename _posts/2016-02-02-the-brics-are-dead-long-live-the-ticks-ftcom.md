@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://next.ft.com/content/b1756028-c355-11e5-808f-8231cd71622e'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - brazil
   - equities
 description: "The Brics are dead. Long live the Ticks. The Brics concept, based on the belief that the quartet of Brazil, Russia, India and China would power an unstoppable wave of emerging markets-led economic growth, gripped the firmament for more than a decade after it was conjured into existence by Jim O'Neill, then chief economist at Goldman Sachs, in 2001."
-datePublished: '2016-02-03T06:56:15.917Z'
-dateModified: '2016-02-03T06:56:10.926Z'
+datePublished: '2016-02-07T09:13:18.191Z'
+dateModified: '2016-02-04T11:39:45.310Z'
 author: []
 related: []
 app_links: []
@@ -31,6 +30,7 @@ publisher:
   domain: next.ft.com
   url: 'http://www.ft.com'
   favicon: 'http://im.ft-static.com/m/icons/favicon.ico'
+url: the-brics-are-dead-long-live-the-ticks-ftcom/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
