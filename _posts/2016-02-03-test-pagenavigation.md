@@ -6,20 +6,22 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T07:07:58.792Z'
-dateModified: '2016-02-03T07:07:47.128Z'
-title: TEST PAGE/NAVIGATION
+datePublished: '2016-02-07T09:13:01.941Z'
+dateModified: '2016-02-06T08:05:54.884Z'
+title: 'Digital & FutureWork'
 author: []
+sourcePath: _posts/2016-02-03-test-pagenavigation.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-03-test-pagenavigation.md
-published: true
 url: test-pagenavigation/index.html
 _type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7d99af8-6b2f-4db1-a687-53b05fc6f60e.jpg)
+
 Test Page/Nav
