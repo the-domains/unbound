@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://gelookahead.economist.com/3d-printing-will-disrupt-manufacturing-2/'
 inLanguage: en
 starred: false
 keywords:
@@ -17,20 +16,21 @@ keywords:
   - prosthetic
   - disrupting
 description: 'Hard to believe that digitalisation might affect manufacturing to the same extent it has affected and changed media. Record shops did not survive the digital reproduction of music: the last Virgin Megastore in the US closed five years ago, following the earlier demise of many thousands of smaller retailers.'
-datePublished: '2016-01-28T20:39:56.675Z'
-dateModified: '2016-01-28T20:39:46.373Z'
+datePublished: '2016-02-07T09:14:15.835Z'
+dateModified: '2016-02-04T11:41:20.978Z'
 author: []
 related: []
 app_links: []
 title: '3D printing will disrupt manufacturing - | GE Look ahead | The Economist'
+sourcePath: _posts/2016-01-28-3d-printing-will-disrupt-manufacturing-or-ge-look-ahead-or-t.md
+published: true
 authors: []
 publisher:
   name: 'GE Look ahead | The Economist'
   domain: gelookahead.economist.com
   url: 'http://gelookahead.economist.com'
   favicon: 'http://gelookahead.economist.com/favicon.ico'
-sourcePath: _posts/2016-01-28-3d-printing-will-disrupt-manufacturing-or-ge-look-ahead-or-t.md
-published: true
+url: 3d-printing-will-disrupt-manufacturing-or-ge-look-ahead-or-t/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
