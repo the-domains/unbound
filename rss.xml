@@ -4,7 +4,7 @@
         <description><![CDATA[unbound]]></description>
         <link>https://thegrid.ai/unbound/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 18:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 09:12:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/unbound/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Networks and macroeconomic shocks]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/unbound/b76cf909-f796-40cc-b147-0137f25ce82f/index.html</link>
             <guid isPermaLink="false">b76cf909-f796-40cc-b147-0137f25ce82f</guid>
             <pubDate>Wed, 03 Feb 2016 07:05:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Better Living Through Robots]]></title>
+            <description><![CDATA[<article><h1>Better Living Through Robots</h1><p>Robert Gordon, an economist at Northwestern University, likes to play a game he calls Find the Robot. As he goes about his everyday life-shopping, traveling through airports-he looks for machines performing tasks that humans once handled. Most of what he sees doesn't impress him. ATMs, self-checkout kiosks, and boarding pass scanners have been around for years.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d3f696b65e348b98de535bf0783bf5f18c74a9af.jpg"></article>]]></description>
+            <link>http://www.bloomberg.com/news/articles/2016-01-19/davos-theme-better-living-through-robots</link>
+            <guid isPermaLink="false">2f8b8c18-9321-41e7-bb66-52ed021666bb</guid>
+            <pubDate>Sun, 07 Feb 2016 09:12:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[#AI beats GO champ 10 years early]]></title>
