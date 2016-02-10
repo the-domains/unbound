@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-10T21:18:53.568Z'
-dateModified: '2016-02-10T21:18:46.055Z'
+datePublished: '2016-02-10T21:47:52.990Z'
+dateModified: '2016-02-10T21:47:49.744Z'
 title: 'Digital & FutureWork'
 author: []
 sourcePath: _posts/2016-02-03-test-pagenavigation.md
