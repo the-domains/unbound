@@ -3,7 +3,6 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: en
-starred: false
 keywords:
   - teka
   - uber
@@ -15,9 +14,14 @@ keywords:
   - independent
   - platforms
   - flexible
-description: "In the us, we lump workers into two categories, employee or independent contractor, neither of which were designed for Fasil Teka. Teka, 41, joined Uber five years ago in Seattle. He drives roughly 40 hours a week as an independent contractor. He's also a party planner and sometimes shuttles guests for a local hotel."
-datePublished: '2016-05-15T09:23:48.018Z'
-dateModified: '2016-02-10T21:14:47.138Z'
+description: >-
+  In the us, we lump workers into two categories, employee or independent
+  contractor, neither of which were designed for Fasil Teka. Teka, 41, joined
+  Uber five years ago in Seattle. He drives roughly 40 hours a week as an
+  independent contractor. He's also a party planner and sometimes shuttles
+  guests for a local hotel.
+datePublished: '2016-08-19T08:52:20.107Z'
+dateModified: '2016-08-19T08:52:19.707Z'
 author:
   - name: Jessi Hempel
     url: 'http://www.wired.com/author/jessi-hempel/'
@@ -32,6 +36,8 @@ publisher:
   url: 'http://www.wired.com'
   favicon: 'http://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
 sourcePath: _posts/2016-05-15-gig-economy-workers-need-benefits-and-job-protections-now.md
+via: {}
+starred: false
 url: gig-economy-workers-need-benefits-and-job-protections-now/index.html
 _context: 'http://schema.org'
 _type: MediaObject
