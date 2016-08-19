@@ -1,20 +1,4 @@
-name: unbound
-favicon: null
-layout_spectrum: 0.74308
 typography_spectrum: 0.008821337716653943
-title: unbound
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#020703'
@@ -26,4 +10,21 @@ color:
   lightness: 0.9375
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.74308
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: unbound
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: unbound
+description: stuff I like
 purpose: []
