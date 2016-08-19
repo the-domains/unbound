@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Digital & New Economy
+    id: bf99e8eb-dbd5-4729-a5d3-a770e5b6d66a
+    type: content
 favicon: null
 title: unbound
 description: stuff I like
