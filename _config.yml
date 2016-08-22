@@ -19,6 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Andrew Crosby
+  email: andrewncrosby@gmail.com
 name: unbound
 cta:
   domain: null
@@ -29,6 +32,6 @@ navigation:
     id: bf99e8eb-dbd5-4729-a5d3-a770e5b6d66a
     type: content
 favicon: null
-title: unbound
+title: vide grenier
 description: stuff I like
 purpose: []
